@@ -1,0 +1,11 @@
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.exe
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.deps.json
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.runtimeconfig.json
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.dll
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.pdb
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.AssemblyInfo.cs
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.dll
+C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.pdb
