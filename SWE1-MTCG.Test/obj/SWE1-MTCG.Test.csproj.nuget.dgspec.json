@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG.Test\\SWE1-MTCG.Test.csproj": {}
+    "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG.Test\\SWE1-MTCG.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG.Test\\SWE1-MTCG.Test.csproj": {
+    "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG.Test\\SWE1-MTCG.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG.Test\\SWE1-MTCG.Test.csproj",
+        "projectUniqueName": "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG.Test\\SWE1-MTCG.Test.csproj",
         "projectName": "SWE1-MTCG.Test",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG.Test\\SWE1-MTCG.Test.csproj",
-        "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG.Test\\obj\\",
+        "projectPath": "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG.Test\\SWE1-MTCG.Test.csproj",
+        "packagesPath": "C:\\Users\\EA Consulting\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "H:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EA Consulting\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj": {
-                "projectPath": "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj"
+              "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj": {
+                "projectPath": "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj"
               }
             }
           }
@@ -47,6 +46,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.0, )"
+            },
             "Moq": {
               "target": "Package",
               "version": "[4.14.7, )"
@@ -75,25 +78,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj": {
+    "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj",
+        "projectUniqueName": "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj",
         "projectName": "SWE1-MTCG",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj",
-        "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\SWE1-MTCG\\SWE1-MTCG\\obj\\",
+        "projectPath": "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG\\SWE1-MTCG.csproj",
+        "packagesPath": "C:\\Users\\EA Consulting\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EA Consulting\\Desktop\\SWE-MTCG\\SWE1-MTCG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "H:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EA Consulting\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -132,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,3 +9,16 @@ C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTC
 C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.AssemblyInfo.cs
 C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.dll
 C:\Users\Chris\source\repos\SWE1-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.pdb
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.exe
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.deps.json
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.runtimeconfig.json
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.runtimeconfig.dev.json
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.dll
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\bin\Debug\netcoreapp3.1\SWE1-MTCG.pdb
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.csprojAssemblyReference.cache
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.AssemblyInfoInputs.cache
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.AssemblyInfo.cs
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.dll
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.pdb
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.genruntimeconfig.cache
+C:\Users\EA Consulting\Desktop\SWE-MTCG\SWE1-MTCG\obj\Debug\netcoreapp3.1\SWE1-MTCG.csproj.CoreCompileInputs.cache

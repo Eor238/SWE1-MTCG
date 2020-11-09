@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE1-MTCG", "SWE1-MTCG\SWE1-MTCG.csproj", "{139D1A2E-44CA-41E6-B976-8D454815D8B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SWE1-MTCG", "SWE1-MTCG\SWE1-MTCG.csproj", "{139D1A2E-44CA-41E6-B976-8D454815D8B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWE1-MTCG.Test", "SWE1-MTCG.Test\SWE1-MTCG.Test.csproj", "{B6E7997A-1208-4D0E-BE8C-AC914138EFCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SWE1-MTCG.Test", "SWE1-MTCG.Test\SWE1-MTCG.Test.csproj", "{B6E7997A-1208-4D0E-BE8C-AC914138EFCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
