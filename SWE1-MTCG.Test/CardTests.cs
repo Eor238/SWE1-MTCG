@@ -13,7 +13,7 @@ namespace SWE1_MTCG.Test
         [Test]
         public void TestIsMonsterCard()
         {
-            ICard card = new MonsterCard("Test", 1500, Element.Fire);
+            ICard card = new MonsterCard("Test", 1500, Element.Fire, MonsterTypes.Ork);
             var actual = card.CardType;
             Assert.AreEqual(CardType.Monster, actual);
         }

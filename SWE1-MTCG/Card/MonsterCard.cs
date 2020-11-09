@@ -6,8 +6,10 @@ namespace SWE1_MTCG.Card
 {
     public class MonsterCard : AbstractCard
     {
-        public MonsterCard(string name, int attack, Element element) : base(name, attack, element, CardType.Monster)
+        MonsterTypes monstertype;
+        public MonsterCard(string name, int attack, Element element, MonsterTypes mType) : base(name, attack, element, CardType.Monster)
         {
+            this.monstertype = mType;
         }
     }
 }
