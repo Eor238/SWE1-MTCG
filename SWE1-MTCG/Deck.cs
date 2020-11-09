@@ -7,12 +7,12 @@ namespace SWE1_MTCG
 {
     public class Deck
     {
-        public ICard _card1 { get; }
-        public ICard _card2 { get; }
-        public ICard _card3 { get; }
-        public ICard _card4 { get; }
+        public Card.Card _card1 { get; }
+        public Card.Card _card2 { get; }
+        public Card.Card _card3 { get; }
+        public Card.Card _card4 { get; }
 
-        public Deck(ICard card1, ICard card2, ICard card3, ICard card4)
+        public Deck(Card.Card card1, Card.Card card2, Card.Card card3, Card.Card card4)
         {
             this._card1 = card1;
             this._card2 = card2;

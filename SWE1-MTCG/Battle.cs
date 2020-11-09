@@ -22,21 +22,18 @@ namespace SWE1_MTCG
             this._opponentBDeck = opponentBDeck;
         }
 
-        public void battleTurnMonsterOnly(ICard cardA, ICard cardB)
+        public void battleTurnMonsterOnly(Card.Card cardA, Card.Card cardB)
         {
             if (cardA.Attack > cardB.Attack)
             {
                 turnWinner = _opponentA;
-                Console.WriteLine("Player A won the round!");
             }
             else if (cardA.Attack < cardB.Attack)
             {
                 turnWinner = _opponentB;
-                Console.WriteLine("Player B won the round!");
             }
             else
             {
-                Console.WriteLine("The round is a tie!");
             }
         }
 

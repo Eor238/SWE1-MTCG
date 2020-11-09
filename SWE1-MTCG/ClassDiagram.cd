@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SWE1_MTCG.Card.Card">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAQAAIgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE1_MTCG.Card.MonsterCard">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\MonsterCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE1_MTCG.Card.SpellCard">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\SpellCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE1_MTCG.User.MTCGUser">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQQAAAAgAAAAAAAAigAAAAAAAAAA=</HashCode>
+      <FileName>User\MTCGUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE1_MTCG.Battle">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAMgAAAAQAAAA=</HashCode>
+      <FileName>Battle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE1_MTCG.Deck">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWE1_MTCG.Program" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SWE1_MTCG.Card.ICard" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAQAAIgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\ICard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SWE1_MTCG.Card.CardType">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAAA=</HashCode>
+      <FileName>Card\CardType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SWE1_MTCG.Card.Element">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\Element.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SWE1_MTCG.Card.MonsterTypes">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAEAAAAABgAAAAAAAAAIAAAgAAAAAAAgAAA=</HashCode>
+      <FileName>Card\MonsterTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

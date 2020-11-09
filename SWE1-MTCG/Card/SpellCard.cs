@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SWE1_MTCG.Card
 {
-    public class SpellCard : AbstractCard
+    public class SpellCard : Card
     {
         public SpellCard(string name, int attack, Element element) : base(name, attack, element, CardType.Spell)
         {

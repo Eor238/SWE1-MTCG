@@ -25,7 +25,7 @@ namespace SWE1_MTCG.Test
             MTCGUser user1 = new MTCGUser("Tester", 1, 20);
             user1.removeCoins(5);
             Assert.AreEqual(user1.Coinbalance, 15);
-            user1.removeCoins(20);
+            user1.removeCoins(30);
             Assert.AreEqual(user1.Coinbalance, 0);
         }
 

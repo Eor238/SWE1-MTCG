@@ -14,7 +14,7 @@ namespace SWE1_MTCG.Test
         [Test]
         public void TestIsMonsterCard()
         {
-            ICard card = new MonsterCard("Test", 1500, Element.Fire, MonsterTypes.Ork);
+            Card.Card card = new MonsterCard("Test", 1500, Element.Fire, MonsterTypes.Ork);
             var actual = card.CardType;
             Assert.AreEqual(CardType.Monster, actual);
         }
@@ -22,7 +22,7 @@ namespace SWE1_MTCG.Test
         [Test]
         public void TestIsSpellCard()
         {
-            ICard card = new SpellCard("Test", 1500, Element.Fire);
+            Card.Card card = new SpellCard("Test", 1500, Element.Fire);
             var actual = card.CardType;
             Assert.AreEqual(CardType.Spell, actual);
         }
@@ -44,15 +44,15 @@ namespace SWE1_MTCG.Test
             MTCGUser UserA = new MTCGUser("Tester A", 1, 20);
             MTCGUser UserB = new MTCGUser("Tester B", 2, 20);
 
-            ICard Acard1 = new MonsterCard("Dragon", 2000, Element.Fire, MonsterTypes.Dragon);
-            ICard Acard2 = new MonsterCard("Dragon 2", 1200, Element.Water, MonsterTypes.Dragon);
-            ICard Acard3 = new MonsterCard("Dragon 3", 2000, Element.Normal, MonsterTypes.Dragon);
-            ICard Acard4 = new MonsterCard("Dragon 4", 500, Element.Fire, MonsterTypes.Dragon);
+            Card.Card Acard1 = new MonsterCard("Dragon", 2000, Element.Fire, MonsterTypes.Dragon);
+            Card.Card Acard2 = new MonsterCard("Dragon 2", 1200, Element.Water, MonsterTypes.Dragon);
+            Card.Card Acard3 = new MonsterCard("Dragon 3", 2000, Element.Normal, MonsterTypes.Dragon);
+            Card.Card Acard4 = new MonsterCard("Dragon 4", 500, Element.Fire, MonsterTypes.Dragon);
 
-            ICard Bcard1 = new MonsterCard("Goblin", 1000, Element.Normal, MonsterTypes.Goblin);
-            ICard Bcard2 = new MonsterCard("Elf", 2000, Element.Fire, MonsterTypes.FireElf);
-            ICard Bcard3 = new MonsterCard("Wizzard", 2000, Element.Water, MonsterTypes.Wizzard);
-            ICard Bcard4 = new MonsterCard("Mega Dragon", 2000, Element.Fire, MonsterTypes.Dragon);
+            Card.Card Bcard1 = new MonsterCard("Goblin", 1000, Element.Normal, MonsterTypes.Goblin);
+            Card.Card Bcard2 = new MonsterCard("Elf", 2000, Element.Fire, MonsterTypes.FireElf);
+            Card.Card Bcard3 = new MonsterCard("Wizzard", 2000, Element.Water, MonsterTypes.Wizzard);
+            Card.Card Bcard4 = new MonsterCard("Mega Dragon", 2000, Element.Fire, MonsterTypes.Dragon);
 
             Deck DeckA = new Deck(Acard1, Acard2, Acard3, Acard4);
             Deck DeckB = new Deck(Bcard1, Bcard2, Bcard3, Bcard4);

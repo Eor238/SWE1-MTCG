@@ -4,14 +4,14 @@ using System.Text;
 
 namespace SWE1_MTCG.Card
 {
-    public abstract class AbstractCard : ICard
+    public abstract class Card
     {
         public string Name { get; }
         public int Attack { get; }
         public Element Element { get; }
         public CardType CardType { get; }
 
-        protected AbstractCard(string name, int attack, Element element, CardType cardtype)
+        protected Card(string name, int attack, Element element, CardType cardtype)
         {
             this.Name = name;
             this.Attack = attack;
