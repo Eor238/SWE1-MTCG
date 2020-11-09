@@ -26,7 +26,7 @@ namespace SWE1_MTCG
 
             Battle battle1 = new Battle(UserA, UserB, DeckA, DeckB);
 
-            battle1.battleTurnMonsterOnly(DeckA.GetCard1(), DeckB.GetCard1());
+            battle1.battleTurnMonsterOnly(DeckA._card1, DeckB._card1);
         }
     }
 }

@@ -5,12 +5,12 @@ using SWE1_MTCG.Card;
 
 namespace SWE1_MTCG
 {
-    class Deck
+    public class Deck
     {
-        private ICard _card1 { get; }
-        private ICard _card2 { get; }
-        private ICard _card3 { get; }
-        private ICard _card4 { get; }
+        public ICard _card1 { get; }
+        public ICard _card2 { get; }
+        public ICard _card3 { get; }
+        public ICard _card4 { get; }
 
         public Deck(ICard card1, ICard card2, ICard card3, ICard card4)
         {
@@ -20,9 +20,5 @@ namespace SWE1_MTCG
             this._card4 = card4;
         }
 
-        public ICard GetCard1()
-        {
-            return _card1;
-        }
     }
 }

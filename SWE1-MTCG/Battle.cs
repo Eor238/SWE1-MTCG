@@ -6,12 +6,13 @@ using SWE1_MTCG.User;
 
 namespace SWE1_MTCG
 {
-    class Battle
+    public class Battle
     {
         private readonly MTCGUser _opponentA;
         private readonly MTCGUser _opponentB;
         private readonly Deck _opponentADeck;
         private readonly Deck _opponentBDeck;
+        public MTCGUser turnWinner;
 
         public Battle(MTCGUser opponentA, MTCGUser opponentB, Deck opponentADeck, Deck opponentBDeck)
         {
@@ -25,10 +26,12 @@ namespace SWE1_MTCG
         {
             if (cardA.Attack > cardB.Attack)
             {
+                turnWinner = _opponentA;
                 Console.WriteLine("Player A won the round!");
             }
             else if (cardA.Attack < cardB.Attack)
             {
+                turnWinner = _opponentB;
                 Console.WriteLine("Player B won the round!");
             }
             else

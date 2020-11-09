@@ -27,9 +27,13 @@ namespace SWE1_MTCG.User
         {
             int CoinbalanceAfter = Coinbalance - amount;
 
-            if (CoinbalanceAfter !< 0)
+            if (CoinbalanceAfter > 0)
             {
                 Coinbalance = CoinbalanceAfter;
+            }
+            else
+            {
+                Coinbalance = 0;
             }
         }
     }
